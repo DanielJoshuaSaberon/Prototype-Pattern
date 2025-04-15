@@ -16,4 +16,5 @@ Type: Spreadsheet, Name: sales_data_q1.xlsx, Rows: 1000, Columns: 20
 
 Opening PDF Document: summary_report.pdf by Acme Corp (30 pages)
 
-### UML Class Diagram
+## UML Class Diagram
+![ERD with colored entities (UML notation)](https://github.com/user-attachments/assets/8e813d09-cc7a-480b-bda9-c52fda65e866)
